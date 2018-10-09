@@ -1,2 +1,4 @@
 text file for test
 on the br1
+
+on the local
