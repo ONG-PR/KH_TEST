@@ -3,3 +3,4 @@
 test agiain
 
 test file for multi remote
+test unset credential.helper
